@@ -1,4 +1,9 @@
-#include<bits/stdc++.h>
+1.// Problem name: Mathematical expression .
+2.// Course title: Competitive Programming Sessional
+3.// Course code: CCE-2310
+4.// Course teacher name: Mirza Raquib
+5.// Date: 05/04/25
+ #include<bits/stdc++.h>
 using namespace std;
 int main()
 {
